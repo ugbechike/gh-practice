@@ -7,7 +7,7 @@ export function Collections() {
 
     arr.map((item, index) => item)
 
-    return 1+1
+    return arr
 }
 
 function subtractNumber(a, b) {
